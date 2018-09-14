@@ -14,5 +14,5 @@ _book
 *.epub
 *.mobi
 *.pdf
-*.vs
-.vs\
+#*.vs
+#.vs\
